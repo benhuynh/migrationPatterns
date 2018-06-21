@@ -1,0 +1,40 @@
+"","Overall"
+"OrigFood",16.3581345963096
+"OrigFuel",18.8549444454986
+"OrigWage",16.171838993169
+"DestWage",17.3294536478065
+"DestFood",13.1803897400189
+"DestFuel",16.4079381481001
+"flowLag1",100
+"OriginConflict3",19.9454997042765
+"DestConflict3",18.5554663687335
+"OriginConflict",29.7618263230379
+"DestConflict",19.2124970190602
+"dist",43.2371682864864
+"NumMonths",16.5764562863337
+"OriginAleppo",7.5767888387096
+"OriginAs_Suweida",0.317998966714186
+"OriginDamascus",5.17835554663389
+"OriginDaraa",0
+"OriginDeir Ezzor",6.27531324132886
+"OriginEdlib",6.03051115675202
+"OriginHama",7.29469127683667
+"OriginHassakeh",0.359679652636292
+"OriginHoms",3.85547469861271
+"OriginLattakia",1.54716086230775
+"OriginRaqqa",12.4613542396154
+"OriginRural Damascus",6.50517675896429
+"OriginTartous",2.55956529129055
+"DestinationAleppo",8.88316195034616
+"DestinationAs_Suweida",5.6131943135804
+"DestinationDamascus",2.22997364395795
+"DestinationDaraa",0.456250086525457
+"DestinationDeir Ezzor",4.90183566526977
+"DestinationEdlib",15.2274086387406
+"DestinationHama",3.35848450004273
+"DestinationHassakeh",5.95226800565314
+"DestinationHoms",6.523727597688
+"DestinationLattakia",6.12533666878915
+"DestinationRaqqa",4.47690065979955
+"DestinationRural Damascus",1.01428724436648
+"DestinationTartous",8.34612700347873
